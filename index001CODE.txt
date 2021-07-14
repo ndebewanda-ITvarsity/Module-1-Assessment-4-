@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>ASSESSMENT-4 </title>
+</head>
+<body>
+<h1 title="List"> 25 Highest Grossing Movies Of All Time</h1>
+<style> table,th,tr,td {border 1px solid black;} </style>
+<table border="6">
+<tr><th>Name of movie</th><th>Highest Grossing</th><th>Genre</th><th>Year</th><th><Description</th></tr>
+<tr><td>Avengers:Endgame</td><td>$2.790 Billion</td><td>Action/Animation</td><td>2019</td></tr>
+<tr><td>Avator</td><td>$2.79 Billion</td><td>Action/Animation</td><td>2009</td></tr>
+<tr><td>Titanic</td><td>$2.187 Billion</td><td>Drama/Romance</td><td>1997</td></tr>
+<tr><td>Star Wars:Episode VII-The Force Awakens</td><td>$2.068 Billion</td><td>Action/Fiction</td><td>2015</td></tr>
+<tr><td>Transformers:Dark Of The Moon</td><td>$2.048 Billion</td><td>Action/Animation</td><td>2011</td></tr>
+<tr><td>Captain Marvel</td><td>$1.128 Billion</td><td>Action/Animation</td><td>2019</td></tr>
+<tr><td>Spiderman:Far from home</td><td>$1.129 Billion</td><td>Fiction/Action/Animation</td><td>2019</td></tr>
+<tr><td>Aquaman</td><td>$1.148 Billion</td><td>Action/Animation</td><td>2018</td></tr>
+<tr><td>Captain America:Civil War</td><td>$1.153 Billion</td><td>Action/Animation</td><td>2016</td></tr>
+<tr><td>Minions</td><td>$1.59 Billion</td><td>Fiction/Animation</td><td>2015</td></tr>
+<tr><td>Iron Man</td><td>$1.215 Billion</td><td>Action/Animation</td><td>2013</td></tr>
+<tr><td>Fate Of The Furious</td><td>$1.236 Billion</td><td>Action/Fiction</td><td>2017</td></tr>
+<tr><td>Incredibles</td><td>$1.242 Billion</td><td>Action/Animation</td><td>2019</td></tr>
+<tr><td>Frozen</td><td>$1.276 Billion</td><td>Animation</td><td>2019</td></tr>
+<tr><td>Jurassic World:Fallen Kingdom</td><td>$1.308 Billion</td><td>Action/Animation</td><td>2018</td></tr>
+<tr><td>Star Wars:The Last Jedi</td><td>$1.333 Billion</td><td>Action/Animation</td><td>2017</td></tr>
+<tr><td>Harry Poter And The Deathly Hallowen </td><td>$1.342 Billion</td><td>Adventure/Action</td><td>2011</td></tr>
+<tr><td>Black Panther</td><td>$1.347 Billion</td><td>Action/Animation</td><td>2018</td></tr>
+<tr><td>Avengers:Age Of Ultron</td><td>$1.404 Billion</td><td>Action/Animation</td><td>2015</td></tr>
+<tr><td>Furious 7</td><td>$1.516 Billion</td><td>Action/Drama</td><td>2015</td></tr>
+<tr><td>The Avangers</td><td>$1.518 Billion</td><td>Action/Animation</td><td>2012</td></tr>
+<tr><td>Jurassic World</td><td>$1.611 Billion</td><td>Action/Fiction</td><td>2015</td></tr>
+<tr><td>Lion King</td><td>$1.656 Billion</td><td>Drama/Animation</td><td>2019</td></tr>
+<tr><td>Beauty And The Beast</td><td>$1.264 Billion</td><td>Romance/Drama/Fiction</td><td>2017</td></tr>
+<tr><td>Avengers:Infinity War</td><td>$2.048 Billion</td><td>Action/Animation</td><td>2019</td></tr>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
